@@ -15,3 +15,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.tenor.com/2c7diqh1oVIAAAAd/anime-computer.gif" alt="GIF" width="180" height="180" style="float: right;" align="right">
 </p>
 
+<!---
+<p align="center"><b>Profile Visitor Count</b><img src="Hi.gif" width="30px"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BCarlosRyan07%7D/count.svg" alt="visitor badge" width="30%"></p>
+--->
