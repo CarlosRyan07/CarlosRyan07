@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <p style="color: #0000FF;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&duration=3000&pause=1000&center=true&width=500&height=150&color=0000FF&lines=Hello,+i'm+Carlos+Ryan;Welcome+to+my+profile!" align="left">
-  <img src="https://media.tenor.com/2c7diqh1oVIAAAAd/anime-computer.gif" alt="GIF" width="180" height="180" style="float: right;" align="right">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&duration=3000&pause=1000&center=true&width=500&height=150&color=0000FF&lines=Hi,+i'm+Carlos+Ryan;Welcome+to+my+profile!☕" align="left">
+  <img src="https://media.tenor.com/B06BZSI7WVYAAAAd/the-mitchells-vs-the-machines-the-mitchells.gif" alt="GIF" width="300" height="200" style="float: right;" align="right">
 </p>
 
 <!---
