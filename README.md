@@ -1,7 +1,7 @@
 
 <p style="color:rgb(0, 251, 255);">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&duration=3000&pause=1000&center=true&width=500&height=150&lines=Hi,+i'm+Carlos+Ryan;Welcome+to+my+profile!☕" align="right">
-  <img src="img\Image.png" alt="PNG" width="400" height="600" style="float: left;" align="left">
+  <img src="img\Image.png" alt="PNG" width="260" height="410" style="float: left;" align="left">
 </p>
 
 <p align="center">
