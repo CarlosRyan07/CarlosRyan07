@@ -2,12 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&duration=3000&pause=1000&center=true&width=500&height=150&lines=Hi,+i'm+Carlos+Ryan;Welcome+to+my+profile!☕" align="right">
 </p>
 <p align="left">
-  <video width="360" height="580" autoplay loop muted>
-    <source src="files\meInDraw.mp4" type="video/mp4">
-  </video>
+  <img src="files/meInDraw.gif" width="360" height="580" alt="Animated drawing">
 </p>
-
-
 
 ---
 
