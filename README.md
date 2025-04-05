@@ -1,9 +1,11 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="files/meInDraw.gif" width="360" height="580" alt="Animated drawing">
   <div>
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&duration=3000&pause=1000&center=true&width=500&height=150&lines=Hi,+i'm+Carlos+Ryan;Welcome+to+my+profile!☕">
   </div>
+  <img src="files/meInDraw.gif" width="330" height="550" alt="Animated drawing">
+  
 </div>
+
 
 ---
 
@@ -11,8 +13,8 @@
 
 - 🙋‍♂️ Meu nome é **Carlos Ryan**.  
 - 🧑‍💻 Sou estudante de **Análise e Desenvolvimento de Sistemas** no Instituto Federal da Paraíba (**IFPB**), atualmente no **5° período**.  
-- 🚀 Apaixonado por tecnologia, gosto de aprender coisas novas e aplicar meus conhecimentos em desafios práticos!  
-
+- 🚀 Apaixonado por tecnologia, gosto de aprender coisas novas e aplicar meus conhecimentos em desafios práticos! 
+- 📄 Aqui você pode descobrir mais informações sobre minha jornada profissional no meu [currículo](files\curriculo.pdf).
 ---
 
 ### **🌍 Minhas Redes Sociais**
