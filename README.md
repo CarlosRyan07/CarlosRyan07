@@ -14,23 +14,7 @@
 - 🙋‍♂️ Meu nome é **Carlos Ryan**.  
 - 🧑‍💻 Sou estudante de **Análise e Desenvolvimento de Sistemas** no Instituto Federal da Paraíba (**IFPB**), atualmente no **5° período**.  
 - 🚀 Apaixonado por tecnologia, gosto de aprender coisas novas e aplicar meus conhecimentos em desafios práticos! 
-
-### **👨‍💼 Experiência Profissional**
-
-- 🎯 **Analista de Dados** - Compass UOL (Jun 2024 - Nov 2024)
-  - Análise de dados com Excel e Power BI
-  - Monitoramento de KPIs e otimização de processos
-  - Colaboração com equipes multidisciplinares
-
-- 💻 **Estágio Data & AI** - Compass UOL (Jun 2024 - Nov 2024)
-  - Desenvolvimento com AWS, Python e Apache Spark
-  - Manipulação de bancos SQL e NoSQL
-  - Projetos de ciência de dados com Jupyter
-
-- 🚀 **Accenture Summer Academy** (Jan 2025)
-  - Desenvolvimento de microsserviços com Spring Boot
-  - E-commerce escalável com RabbitMQ e Eureka
-  - Testes unitários com 80% de cobertura
+- 📄 Você pode acessar mais informações sobre minha jornada profissional no meu [urrículo](https://drive.google.com/uc?export=download&id=1mNRe_pmpdYRbHbf3yB3smlhQ-Bm3ROvf)
 
 ---
 
@@ -78,4 +62,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CarlosRyan07&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosRyan07&layout=compact&custom_title=Most%20Used%20Languages&langs_count=8&theme=dark" />
+</div>
+
+---
+
+### **Contador de Visitantes**
+<div align="center">  
+  <img src="https://profile-counter.glitch.me/%7BCarlosRyan07%7D/count.svg" alt="visitor badge" width="30%">
 </div>
