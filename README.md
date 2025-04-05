@@ -14,7 +14,7 @@
 - 🙋‍♂️ Meu nome é **Carlos Ryan**.  
 - 🧑‍💻 Sou estudante de **Análise e Desenvolvimento de Sistemas** no Instituto Federal da Paraíba (**IFPB**), atualmente no **5° período**.  
 - 🚀 Apaixonado por tecnologia, gosto de aprender coisas novas e aplicar meus conhecimentos em desafios práticos! 
-- 📄 Você pode acessar mais informações sobre minha jornada profissional no meu [urrículo](https://drive.google.com/uc?export=download&id=1mNRe_pmpdYRbHbf3yB3smlhQ-Bm3ROvf)
+- 📄 Você pode acessar mais informações sobre minha jornada profissional no meu [currículo](https://drive.google.com/uc?export=download&id=1mNRe_pmpdYRbHbf3yB3smlhQ-Bm3ROvf)
 
 ---
 
