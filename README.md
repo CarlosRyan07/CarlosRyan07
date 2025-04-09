@@ -68,7 +68,7 @@
 
 ### **📊 Estatísticas do GitHub**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosRyan07&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosRyan07&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosRyan07&layout=compact&custom_title=Most%20Used%20Languages&langs_count=8&theme=dark" />
 </div>
 
