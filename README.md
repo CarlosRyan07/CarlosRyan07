@@ -1,11 +1,9 @@
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&duration=3000&pause=1000&center=true&width=500&height=150&lines=Hi,+i'm+Carlos+Ryan;Welcome+to+my+profile!☕", 
-    align="left">
-  </div>
-<img src="files/meInDraw.gif" width="220" height="350" alt="Animated drawing">
-
----
+ <div align="center">
+    <img src="files/meInDraw.gif" width="220" height="350" alt="Animated drawing">
+ </div> 
+    
+  <h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
+  <p align="center"><i>Desenvolvedor Full Stack | Analista de Dados</i></p>
 
 ## Olá!👋
 
