@@ -85,4 +85,4 @@
     <img src="files/joinha.png" width="210" height="200" alt="joinha" style="margin-right: 20px;">
  </div>
  <br>
- <p align="center"><i>Obrigada pela visita!</i></p>
+ <p align="center"><i>Obrigado pela visita!</i></p>
