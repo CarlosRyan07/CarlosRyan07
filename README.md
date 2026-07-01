@@ -3,7 +3,7 @@
  </div> 
     
   <h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
-  <p align="center"><i>Desenvolvedor Full Stack | Analista de Dados</i></p>
+  <p align="center"><i>QA Engineer | Desenvolvedor Full Stack | Analista de Dados</i></p>
 
 ## Olá!👋
 
