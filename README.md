@@ -13,7 +13,7 @@
 - 🔍 Tenho experiência com validação de regras de negócio, análise de código, investigação de defeitos, testes de integração, banco de dados e documentação de evidências.  
 - 📊 Também possuo background em **desenvolvimento de software** e **engenharia de dados**, o que fortalece minha visão técnica para análise de sistemas, criação de massa de testes e validação de integrações.  
 - 🚀 Gosto de aprender novas tecnologias, resolver problemas complexos e aplicar conhecimento técnico em projetos práticos.  
-- 📄 Você pode acessar mais informações sobre minha jornada profissional no meu [currículo](https://drive.google.com/uc?export=download&id=1tkhivsAVFeSH-EXWNq_c0xOnoXXi2xtn)
+- 📄 Você pode acessar mais informações sobre minha jornada profissional no meu [currículo](https://drive.google.com/uc?export=download&id=1F-79btjthMVT5tFRtSxmQ_0YmAFE3Cbe)
 
 ---
 
